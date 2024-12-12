@@ -15,3 +15,5 @@ Non-fiction will contain fewer sentiment words overall compared to fiction, with
 
 ## Method
 To collect the desired data for this reasearch two books from the library of project gutenberg will be chosen. Preferably 2 books of different genres by the same author. To check for sentiment words in the texts a word list dataset by Prajwal Kanade from https://www.kaggle.com/datasets/prajwalkanade/sentiment-analysis-word-lists-dataset will be used. This dataset includes a list of positve words an d a list of negative sentiment words.
+
+fix significance
